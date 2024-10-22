@@ -34,6 +34,7 @@ The Collaborative Transportation App is a mobile application designed to help us
    ```bash
    git clone https://github.com/yourusername/collaborative-transportation-app.git
    cd collaborative-transportation-app
+   cd admin # driver or rider
    ```
 
 2. Install dependencies:
